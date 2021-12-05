@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning algorithm and web programming
 - 💞️ I’m looking to collaborate on youtube content
 - 📫 How to reach me with :
-    - Discord   : i!N#3385
+    - Discord   : Qil#3385
     - Line      : adenauli10
     - Instagram : naufalnauly
 
