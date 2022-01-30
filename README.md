@@ -43,8 +43,8 @@
 ### 📺 Latest Project Portfolios
 
 <!-- YOUTUBE:START -->
-- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
-
+- [Cruzerverse a Metaverse Concept](https://dribbble.com/shots/17163764-Cruzeverse-a-Metaverse-Concept)
+- [Bugar Vaccine Apps](https://dribbble.com/shots/17147276-Bugar-Vaccine-Apps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.dribbble.com/maqilnaufal)
@@ -54,8 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-Cruzerverse a Metaverse Concept
-- [Cruzerverse a Metaverse Concept](https://dribbble.com/shots/17163764-Cruzeverse-a-Metaverse-Concept)
+- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw)
