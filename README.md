@@ -99,12 +99,14 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/MAqilNaufal/MAqilNaufal.github.io
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/Mposs23
+[dribbble]: https://dribbble.com/maqilnaufal
+[behance]: https://www.behance.net/maqilnaufal
+[youtube]: https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw
+[instagram]: https://instagram.com/naufalnauly
+[linkedin]: https://linkedin.com/in/maqilnaufal
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
