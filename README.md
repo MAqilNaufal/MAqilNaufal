@@ -54,7 +54,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+Cruzerverse a Metaverse Concept
+- [Cruzerverse a Metaverse Concept](https://dribbble.com/shots/17163764-Cruzeverse-a-Metaverse-Concept)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw)
