@@ -47,7 +47,7 @@
 - [Bugar Vaccine Apps](https://dribbble.com/shots/17147276-Bugar-Vaccine-Apps)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.dribbble.com/maqilnaufal)
+➡️ [more project...](https://www.dribbble.com/maqilnaufal)
 
 ---
 
