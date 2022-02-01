@@ -5,9 +5,7 @@
 - 👋 Hi, I’m @MAqilNaufal
 - 👀 I’m interested in visual and great flowchart
 - 🌱 I’m currently learning algorithm and web programming
-- 💞️ I’m looking to collaborate on youtube content
 - 🔭 I just launched some UI/UX Portfolio on dribbble
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Get at least three certification UI/UX
 - ⚡ Fun fact: I love to swim and cycle
