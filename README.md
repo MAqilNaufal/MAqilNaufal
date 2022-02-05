@@ -31,6 +31,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
 [<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="CorelDraw" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
@@ -52,7 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
+- [Coming Soon &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;]
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw)
