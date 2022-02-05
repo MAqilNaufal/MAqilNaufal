@@ -53,7 +53,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;]
+- [Coming Soon]
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw)
