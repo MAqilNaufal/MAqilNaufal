@@ -1,18 +1,18 @@
 # Hi there, I'm [Your Name]! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-YourLinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maqilnaufal/)](https://www.linkedin.com/in/maqilnaufal/)
-[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naulynaufal@gmail.com)](mailto:naulynaufal@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social)](https://github.com/MAqilNaufal/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-naulynaufal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naulynaufal@gmail.com)](mailto:naulynaufal@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/MAqilNaufal?label=Follow&style=social)](https://github.com/MAqilNaufal/?tab=follow)
 [![Visits Badge](https://badges.pufler.dev/visits/yourgithubusername/yourgithubusername)](https://github.com/MAqilNaufal)
 
 Welcome to my GitHub profile! I'm a passionate data scientist with a keen interest in [your interests or field, e.g., machine learning, data analysis, etc.]. 
 
 ## About Me 🚀
 
-- 🎓 I am a final year Computer Science student at [Your University].
+- 🎓 I am a final year Computer Science student at Multimedia Nusantara University.
 - 🌱 I’m currently learning [technologies or skills you are learning].
-- 👯 I’m looking to collaborate on [projects or types of collaborations you're interested in].
-- 💬 Ask me about [topics you are knowledgeable about].
+<!-- - 👯 I’m looking to collaborate on [projects or types of collaborations you're interested in]. -->
+<!-- - 💬 Ask me about [topics you are knowledgeable about]. -->
 - 📫 How to reach me: naulynaufal@gmail,com.
 - 😄 Pronouns: He.
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 ## 🔗 Links
 
 - [Portfolio](https://naulynaufal.com)
-- [Blog](https://naulynaufal.com/blog)
 - [LinkedIn](https://www.linkedin.com/in/maqilnaufal/)
+- [Instagram](https://www.instagram.com/naufalnauly/)
 
 Thank you for visiting my profile! 😊
