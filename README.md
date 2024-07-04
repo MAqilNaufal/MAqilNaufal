@@ -1,94 +1,57 @@
-### Hi there, I'm Muhamad Aqil Naufal, you can call me anytime 👋 
+# Hi there, I'm [Your Name]! 👋
 
-## I'm a Student, UI/UX Designer, and Tech Enthusiast!
+[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinprofile/)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social)](https://github.com/yourgithubusername/?tab=follow)
+[![Visits Badge](https://badges.pufler.dev/visits/yourgithubusername/yourgithubusername)](https://github.com/yourgithubusername)
 
-- 👋 Hi, I’m @MAqilNaufal
-- 👀 I’m interested in visual and great flowchart
-- 🌱 I’m currently learning algorithm and web programming
-- 🔭 I just launched some UI/UX Portfolio on dribbble
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get at least three certification UI/UX
-- ⚡ Fun fact: I love to swim and cycle
-- 📫 How to reach me with :
-    - Discord   : Qil#3385
-    - Line      : adenauli10
-    - Instagram : naufalnauly
+Welcome to my GitHub profile! I'm a passionate data scientist with a keen interest in [your interests or field, e.g., machine learning, data analysis, etc.]. 
 
-### Connect with me:
+## About Me 🚀
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MAqilNaufal | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="MAqilNaufal | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
-[<img align="left" alt="MAqilNaufal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MAqilNaufal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🎓 I graduated from [Your University] with a degree in [Your Degree].
+- 🌱 I’m currently learning [technologies or skills you are learning].
+- 👯 I’m looking to collaborate on [projects or types of collaborations you're interested in].
+- 💬 Ask me about [topics you are knowledgeable about].
+- 📫 How to reach me: [your email address].
+- 😄 Pronouns: [your pronouns].
+- ⚡ Fun fact: [a fun fact about you].
 
-<br />
+## 🛠️ Technologies & Tools
 
-### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/-R-333?style=flat-square&logo=r)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat-square&logo=keras)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=postgresql)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat-square&logo=tableau)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobexd.svg" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+## 📈 GitHub Stats
 
-<br />
-<br />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_border=true)
 
----
+## 🏆 GitHub Trophies
 
-### 📺 Latest Project Portfolios
+![trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark)
 
-<!-- YOUTUBE:START -->
-- [Cruzerverse a Metaverse Concept](https://dribbble.com/shots/17163764-Cruzeverse-a-Metaverse-Concept)
-- [Bugar Vaccine Apps](https://dribbble.com/shots/17147276-Bugar-Vaccine-Apps)
-<!-- YOUTUBE:END -->
-
-➡️ [more project...](https://www.dribbble.com/maqilnaufal)
-
----
-
-### 📕 Latest Blog Posts
+## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon]
+- [Post 1 Title](https://yourblog.com/post-1)
+- [Post 2 Title](https://yourblog.com/post-2)
+- [Post 3 Title](https://yourblog.com/post-3)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw)
+## 🔗 Links
 
----
+- [Portfolio](https://yourportfolio.com)
+- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- [Twitter](https://twitter.com/yourtwitterhandle)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="MAqilNaufal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://github.com/MAqilNaufal/MAqilNaufal.github.io
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/Mposs23
-[dribbble]: https://dribbble.com/maqilnaufal
-[behance]: https://www.behance.net/maqilnaufal
-[youtube]: https://www.youtube.com/channel/UCoFTkyKen2JOgEuzVPw9tuw
-[instagram]: https://instagram.com/naufalnauly
-[linkedin]: https://linkedin.com/in/maqilnaufal
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-<!---
-MAqilNaufal/MAqilNaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my profile! 😊
