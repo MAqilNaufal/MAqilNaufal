@@ -1,20 +1,18 @@
 # Hi there, I'm Muhamad Aqil Naufal! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-MAqilNaufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maqilnaufal/)](https://www.linkedin.com/in/maqilnaufal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhamad_Aqil_Naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maqilnaufal/)](https://www.linkedin.com/in/maqilnaufal/)
 [![Gmail Badge](https://img.shields.io/badge/-naulynaufal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naulynaufal@gmail.com)](mailto:naulynaufal@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/MAqilNaufal?label=Follow&style=social)](https://github.com/MAqilNaufal/?tab=follow)
 [![Visits Badge](https://badges.pufler.dev/visits/MAqilNaufal/MAqilNaufal)](https://github.com/MAqilNaufal)
-
-Welcome to my GitHub profile! I'm a passionate data scientist with a keen interest in [your interests or field, e.g., machine learning, data analysis, etc.]. 
 
 ## About Me 🚀
 
 - 🎓 I am a final year Computer Science student at Multimedia Nusantara University.
 - 🌱 I’m currently learning TensorFlow and Power BI.
-- 📫 How to reach me: naulynaufal@gmail,com.
 - 😄 Pronouns: He.
 <!-- - 👯 I’m looking to collaborate on [projects or types of collaborations you're interested in]. -->
 <!-- - 💬 Ask me about [topics you are knowledgeable about]. -->
+<!-- - 📫 How to reach me: naulynaufal@gmail,com. -->
 
 ## 🛠️ Technologies & Tools
 
@@ -40,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MAqilNaufale&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark)
 
 ## 🔗 Links
 
