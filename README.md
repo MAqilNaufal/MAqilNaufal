@@ -1,9 +1,9 @@
 # Hi there, I'm Muhamad Aqil Naufal! 👋
 
-# [![Linkedin Badge](https://img.shields.io/badge/-Muhamad_Aqil_Naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maqilnaufal/)](https://www.linkedin.com/in/maqilnaufal/)
-# [![Gmail Badge](https://img.shields.io/badge/-naulynaufal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naulynaufal@gmail.com)](mailto:naulynaufal@gmail.com)
-# [![GitHub followers](https://img.shields.io/github/followers/MAqilNaufal?label=Follow&style=social)](https://github.com/MAqilNaufal/?tab=follow)
-# [![Visits Badge](https://badges.pufler.dev/visits/MAqilNaufal/MAqilNaufal)](https://github.com/MAqilNaufal)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Muhamad_Aqil_Naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maqilnaufal/)](https://www.linkedin.com/in/maqilnaufal/)
+[![Gmail Badge](https://img.shields.io/badge/-naulynaufal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naulynaufal@gmail.com)](mailto:naulynaufal@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/MAqilNaufal?label=Follow&style=social)](https://github.com/MAqilNaufal/?tab=follow)
+[![Visits Badge](https://badges.pufler.dev/visits/MAqilNaufal/MAqilNaufal)](https://github.com/MAqilNaufal) -->
 
 ## About Me 🚀
 
