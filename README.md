@@ -32,9 +32,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true) -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true) -->
 
 <!-- ## 🏆 GitHub Trophies
 
