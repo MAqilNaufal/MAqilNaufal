@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-- 🎓 I am a final year Computer Science student at Multimedia Nusantara University.
+- 🎓 I am a final year Information Systems student at Multimedia Nusantara University.
 - 🌱 I’m currently learning TensorFlow and Power BI.
 - 😄 Pronouns: He.
 <!-- - 👯 I’m looking to collaborate on [projects or types of collaborations you're interested in]. -->
