@@ -28,17 +28,17 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
 
-## 📊 Most Used Languages
+<!-- ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true) -->
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark) -->
 
 ## 🔗 Links
 
