@@ -42,7 +42,7 @@
 
 ## 🔗 Links
 
-- [Portfolio](https://naulynaufal.com)
+<!-- - [Portfolio](https://naulynaufal.com) -->
 - [LinkedIn](https://www.linkedin.com/in/maqilnaufal/)
 - [Instagram](https://www.instagram.com/naufalnauly/)
 
