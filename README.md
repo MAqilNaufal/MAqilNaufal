@@ -17,9 +17,9 @@ System analyst by day, building AI-driven internal tooling and operator systems 
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-inky-rho-57.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=8)
 
 ![Streak](https://streak-stats.demolab.com?user=MAqilNaufal&hide_border=true)
 
