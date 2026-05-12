@@ -1,30 +1,41 @@
-# MAqilNaufal
+<h1 align="center">MAqilNaufal</h1>
 
-System analyst by day, building AI-driven internal tooling and operator systems by night.
+<p align="center">System analyst by day, building AI-driven internal tooling and operator systems by night.</p>
 
-## Stack
+<h3 align="center">Stack</h3>
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=nextdotjs)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=postgresql)
-![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=flat-square&logo=googlebigquery)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat-square&logo=powerbi)
-![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat-square&logo=supabase)
-![n8n](https://img.shields.io/badge/-n8n-333?style=flat-square&logo=n8n)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-1a1b27?style=flat-square&logo=python&logoColor=ffd43b" />
+  <img src="https://img.shields.io/badge/-TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/-Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-SQL-1a1b27?style=flat-square&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-BigQuery-1a1b27?style=flat-square&logo=googlebigquery&logoColor=4285f4" />
+  <img src="https://img.shields.io/badge/-Power%20BI-1a1b27?style=flat-square&logo=powerbi&logoColor=f2c811" />
+  <img src="https://img.shields.io/badge/-Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=3ecf8e" />
+  <img src="https://img.shields.io/badge/-n8n-1a1b27?style=flat-square&logo=n8n&logoColor=ea4b71" />
+  <img src="https://img.shields.io/badge/-Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/-Git-1a1b27?style=flat-square&logo=git&logoColor=f05032" />
+</p>
 
-## Stats
+<h3 align="center">Stats</h3>
 
-![GitHub Stats](https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img height="180" src="https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=450&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-inky-rho-57.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&card_width=350" />
+</p>
 
-![Top Languages](https://github-readme-stats-inky-rho-57.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=8)
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=MAqilNaufal&hide_border=true&theme=tokyonight" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=MAqilNaufal&hide_border=true)
+<p align="center">
+  <img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=MAqilNaufal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAqilNaufal&theme=github-compact&hide_border=true&area=true)
+<h3 align="center">Contact</h3>
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/maqilnaufal/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/maqilnaufal/">
+    <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0a66c2" />
+  </a>
+</p>
