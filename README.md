@@ -1,6 +1,6 @@
 # MAqilNaufal
 
-Digital marketing analyst by day, building AI-driven internal tooling and operator systems by night.
+System analyst by day, building AI-driven internal tooling and operator systems by night.
 
 ## Stack
 
