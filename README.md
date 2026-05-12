@@ -23,6 +23,8 @@ System analyst by day, building AI-driven internal tooling and operator systems 
 
 ![Streak](https://streak-stats.demolab.com?user=MAqilNaufal&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAqilNaufal&theme=github-compact&hide_border=true&area=true)
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/maqilnaufal/)
