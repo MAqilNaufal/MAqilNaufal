@@ -1,4 +1,6 @@
-<h1 align="center">MAqilNaufal</h1>
+<h1 align="center">Muhamad Aqil Naufal</h1>
+
+<p align="center"><a href="https://github.com/MAqilNaufal">@MAqilNaufal</a></p>
 
 <p align="center">System analyst by day, building AI-driven internal tooling and operator systems by night.</p>
 
@@ -32,9 +34,17 @@
   <img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=MAqilNaufal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" />
 </p>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">Links</h3>
 
 <p align="center">
+  <a href="https://maqilnaufal.my.id">Portfolio — maqilnaufal.my.id</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/maqilnaufal/">LinkedIn — Muhamad Aqil Naufal</a>
+</p>
+
+<p align="center">
+  <a href="https://maqilnaufal.my.id">
+    <img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=flat-square&logo=astro&logoColor=ff5d01" />
+  </a>
   <a href="https://www.linkedin.com/in/maqilnaufal/">
     <img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0a66c2" />
   </a>
