@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="370" viewBox="0 0 490 370" role="img" aria-label="Profile summary for MAqilNaufal">
+<style>
+text{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:13px}
+.p{fill:#9ece6a;font-size:13px}
+.k{fill:#565f89}
+.r{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<rect width="100%" height="100%" rx="8" fill="#1a1b27"/>
+<text class="p" x="22" y="28">MAqilNaufal@github <tspan fill="#565f89">~ $</tspan> <tspan fill="#e0af68">neofetch</tspan></text>
+<line x1="22" y1="36" x2="468" y2="36" stroke="#565f89" stroke-opacity=".35"/>
+<g class="r" style="animation-delay:0.35s"><text class="k" x="22" y="58.0">name</text><text class="v" x="114" y="58.0" fill="#7aa2f7">Muhamad Aqil Naufal</text></g>
+<g class="r" style="animation-delay:0.41s"><text class="k" x="22" y="79.08">role</text><text class="v" x="114" y="79.08" fill="#a9b1d6">System Analyst / Digital Marketing</text></g>
+<g class="r" style="animation-delay:0.47s"><text class="k" x="22" y="100.15">focus</text><text class="v" x="114" y="100.15" fill="#a9b1d6">AI-driven internal tooling</text></g>
+<g class="r" style="animation-delay:0.53s"><text class="k" x="22" y="121.23">stack</text><text class="v" x="114" y="121.23" fill="#a9b1d6">Python · TypeScript · SQL · Next.js</text></g>
+<g class="r" style="animation-delay:0.59s"><text class="k" x="22" y="142.31">data</text><text class="v" x="114" y="142.31" fill="#a9b1d6">BigQuery · Power BI · Supabase</text></g>
+<g class="r" style="animation-delay:0.65s"><text class="k" x="22" y="163.38">infra</text><text class="v" x="114" y="163.38" fill="#a9b1d6">Docker · n8n · GitHub Actions</text></g>
+<g class="r" style="animation-delay:0.77s"><text class="k" x="22" y="205.54">commits</text><text class="v" x="114" y="205.54" fill="#9ece6a">822 in the last year</text></g>
+<g class="r" style="animation-delay:0.83s"><text class="k" x="22" y="226.62">active</text><text class="v" x="114" y="226.62" fill="#9ece6a">75 days · 17 day streak</text></g>
+<g class="r" style="animation-delay:0.89s"><text class="k" x="22" y="247.69">busiest</text><text class="v" x="114" y="247.69" fill="#9ece6a">73 contributions in one day</text></g>
+<g class="r" style="animation-delay:1.01s"><text class="k" x="22" y="289.85">web</text><text class="v" x="114" y="289.85" fill="#bb9af7">maqilnaufal.my.id</text></g>
+<g class="r" style="animation-delay:1.07s"><text class="k" x="22" y="310.92">linkedin</text><text class="v" x="114" y="310.92" fill="#bb9af7">in/maqilnaufal</text></g>
+<rect x="22" y="336" width="18" height="9" rx="2" fill="#7aa2f7"/><rect x="48" y="336" width="18" height="9" rx="2" fill="#bb9af7"/><rect x="74" y="336" width="18" height="9" rx="2" fill="#9ece6a"/><rect x="100" y="336" width="18" height="9" rx="2" fill="#e0af68"/><rect x="126" y="336" width="18" height="9" rx="2" fill="#f7768e"/><rect x="152" y="336" width="18" height="9" rx="2" fill="#a9b1d6"/><rect x="178" y="336" width="18" height="9" rx="2" fill="#565f89"/>
+</svg>
