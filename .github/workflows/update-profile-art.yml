@@ -1,0 +1,37 @@
+name: update profile art
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # 04:17 WIB daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tools/render_profile_art.py
+      - .github/workflows/update-profile-art.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - run: python3 tools/render_profile_art.py
+      - name: commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "chore: refresh profile art"
+          git push
