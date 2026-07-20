@@ -4,24 +4,11 @@
 
 <p align="center">System analyst by day, building AI-driven internal tooling and operator systems by night.</p>
 
-<p align="center"><img width="370" align="top" alt="ASCII portrait" src="assets/avi-ascii.svg" /><img width="490" align="top" alt="Profile summary" src="assets/info-card.svg" /></p>
-
-<p align="center"><code>aqil@github ~ $ ./contributions.sh</code></p>
-
-<p align="center"><img width="860" alt="Contribution calendar for the last 12 months" src="assets/contrib-heatmap.svg" /></p>
-
-<h3 align="center">Stats</h3>
+<p align="center"><img width="520" alt="Profile summary" src="assets/info-card.svg" /></p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=450" />
-  <img height="180" src="https://github-readme-stats-inky-rho-57.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&card_width=350" />
+  <img height="170" src="https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=440" />
 </p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=MAqilNaufal&hide_border=true&theme=tokyonight" />
-</p>
-
-<h3 align="center">Links</h3>
 
 <p align="center">
   <a href="https://maqilnaufal.my.id">
@@ -32,5 +19,5 @@
   </a>
 </p>
 
-<!-- assets/*.svg are generated daily by .github/workflows/update-profile-art.yml
-     Regenerate locally with: python3 tools/render_profile_art.py -->
+<!-- assets/info-card.svg is regenerated daily by .github/workflows/update-profile-art.yml
+     Run it locally with: python3 tools/render_info_card.py -->

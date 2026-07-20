@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - tools/render_profile_art.py
+      - tools/render_info_card.py
       - .github/workflows/update-profile-art.yml
 
 permissions:
@@ -25,8 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install --quiet pillow
-      - run: python3 tools/render_profile_art.py
+      - run: python3 tools/render_info_card.py
       - name: commit if changed
         run: |
           git config user.name  "github-actions[bot]"
