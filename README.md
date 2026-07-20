@@ -8,7 +8,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-inky-rho-57.vercel.app/api?username=MAqilNaufal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&card_width=440" />
-  <img height="170" src="https://github-readme-stats-inky-rho-57.vercel.app/api/top-langs/?username=MAqilNaufal&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&card_width=340" />
 </p>
 
 <p align="center">
