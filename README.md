@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=MAqilNaufal&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
 </p>
 
-<p align="center">Marketing Data &amp; Research Officer at LippoLand. I build marketing websites, the SEO and tracking that get them found, and the dashboards that measure them.</p>
+<p align="center">I build marketing websites, the SEO and tracking that get them found, and the dashboards that measure them.</p>
 
 <p align="center"><img width="520" alt="Profile summary" src="assets/info-card.svg" /></p>
 

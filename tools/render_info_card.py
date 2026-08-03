@@ -63,7 +63,7 @@ def fetch_stats():
 def render(stats, width=520):
     rows = [
         ("name", "Muhamad Aqil Naufal", BLUE),
-        ("role", "Marketing Data & Research Officer", FG),
+        ("role", "Web & Data Developer", FG),
         ("focus", "Marketing sites · SEO · analytics", FG),
         ("stack", "Python · TypeScript · SQL · Next.js", FG),
         ("data", "BigQuery · Power BI · Supabase", FG),
