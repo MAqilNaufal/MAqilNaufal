@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://github.com/MAqilNaufal">@MAqilNaufal</a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/maqilnaufal/">Muhamad Aqil Naufal on LinkedIn</a>
+  &nbsp;·&nbsp;
   <img src="https://komarev.com/ghpvc/?username=MAqilNaufal&style=flat-square&color=7aa2f7&label=profile+views" alt="profile views" />
 </p>
 
